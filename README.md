@@ -59,20 +59,34 @@ It was inspired by other browsers/addons like dwb and Vimperator/Pentadactyl.</t
     <td class="tg-0pky">A Spotify client for the terminal written in Rust.
    <tr>
     <td class="tg-0pky">Password Manager</td>
-    <td class="tg-0pky"><a href="https://www.passwordstore.org/"></a>pass</td>
+    <td class="tg-0pky"><a href="https://www.passwordstore.org/">pass</a></td>
     <td class="tg-0pky">the standard unix password manager</td>
   </tr>
   <tr>
     <td class="tg-0pky">File Manager</td>
-    <td class="tg-0pky"><a href="https://github.com/ranger/ranger"></a>Ranger</td>
+    <td class="tg-0pky"><a href="https://github.com/ranger/ranger">Ranger</a></td>
     <td class="tg-0pky">ranger is a console file manager with VI key bindings. It provides a minimalistic and nice curses interface with a view on the directory hierarchy.</td>
   </tr>
     <tr>
     <td class="tg-0pky">Text Editor / IDE</td>
-    <td class="tg-0pky"><a href="https://neovim.io/"></a>neovim</td>
+    <td class="tg-0pky"><a href="https://neovim.io/">neovim</a></td>
     <td class="tg-0pky">Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient</td>
   </tr>
-
+  <tr>
+    <td class="tg-0pky">E-Mail Client</td>
+    <td class="tg-0pky"><a href="https://neomutt.org/"></a>neomutt</td>
+    <td class="tg-0pky">"All mail clients suck. This one just sucks less." -me, circa 1995</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Address-BookClient</td>
+    <td class="tg-0pky"><a href="https://khard.readthedocs.io/en/latest/"></a>khard</td>
+    <td class="tg-0pky">Khard is an address book for the Unix command line. It can read, create, modify and delete vCard address book entries. </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Calendar Client</td>
+    <td class="tg-0pky">https://calcurse.org/<a href=""></a>calcurse</td>
+    <td class="tg-0pky">calcurse is a calendar and scheduling application for the command line. </td>
+  </tr>
 </td>
   </tr>
 </tbody>
