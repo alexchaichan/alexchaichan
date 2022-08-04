@@ -1,9 +1,9 @@
 ```mermaid
 pie
-    title Pie Chart
-    "Dogs" : 386
-    "Cats" : 85
-    "Rats" : 150 
+    title Languages I use
+    "R" : 5
+    "Python" : 2
+    "Shell" : 3 
 ```
 
 
