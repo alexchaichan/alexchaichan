@@ -84,7 +84,7 @@ It was inspired by other browsers/addons like dwb and Vimperator/Pentadactyl.</t
   </tr>
   <tr>
     <td class="tg-0pky">Calendar Client</td>
-    <td class="tg-0pky">https://calcurse.org/<a href=""></a>calcurse</td>
+    <td class="tg-0pky"><a href="https://calcurse.org/">calcurse</a></td>
     <td class="tg-0pky">calcurse is a calendar and scheduling application for the command line. </td>
   </tr>
 </td>
