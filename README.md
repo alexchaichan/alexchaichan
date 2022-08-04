@@ -1,9 +1,10 @@
 ```mermaid
 pie
     title Languages I use
-    "R" : 5
-    "Python" : 2
-    "Shell" : 3 
+    "R" : 14
+    "Python" : 4
+    "Shell" : 1
+    "\LaTeX": 1
 ```
 
 
