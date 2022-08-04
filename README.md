@@ -1,6 +1,6 @@
 <details close>
 
- <summary>I run almost every programm over the commandline. Below I present the programs that I use
+ <summary>I run almost every programm over the commandline. Click the dropdown to see what I use.
 </summary>
 
 
