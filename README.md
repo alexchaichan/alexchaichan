@@ -90,7 +90,7 @@ It was inspired by other browsers/addons like dwb and Vimperator/Pentadactyl.</t
     <td class="tg-0pky">"All mail clients suck. This one just sucks less." -me, circa 1995</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Address-BookClient</td>
+    <td class="tg-0pky">Address-Book Client</td>
     <td class="tg-0pky"><a href="https://khard.readthedocs.io/en/latest/">khard</a></td>
     <td class="tg-0pky">Khard is an address book for the Unix command line. It can read, create, modify and delete vCard address book entries. </td>
   </tr>
