@@ -11,12 +11,8 @@ I run almost every programm over the commandline. Below I present the programs t
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">Formale Anforderungen</td>
-    <td class="tg-0pky">korrektes Inhaltsverzeichnis (mit Gliederungsnummerierung);
-korrekte Zitation im Text und vollständiges Literaturverzeichnis;
-Deckblatt</td>
-    <td class="tg-0pky">bei geringen Verstößen: 0,3 Noten Abzug;
-bei groben Verstößen: 1 Note Abzug</td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
   </tr>
   <tr>
     <td class="tg-0pky">sprachliche Qualität</td>
