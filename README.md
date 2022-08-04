@@ -4,7 +4,7 @@ pie
     "R" : 5
     "Python" : 2
     "Shell" : 3 
-    "\LaTeX" : 1
+    "LaTeX" : 1
 ```
 
 
