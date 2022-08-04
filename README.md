@@ -13,48 +13,67 @@ I run almost every programm over the commandline. Below I present the programs t
 <tbody>
   <tr>
     <td class="tg-0pky">Shell</td>
-    <td class="tg-0pky"><a href="https://www.zsh.org/">Zsh</a></td>
+    <td class="tg-0pky"><a href="https://www.zsh.org/">zsh</a></td>
     <td class="tg-0pky">Zsh is a shell designed for interactive use, although it is also a powerful scripting language.</td>
   </tr>
   <tr>
     <td class="tg-0pky">Terminal</td>
-    <td class="tg-0pky"><a href="https://alacritty.org/">Alacritty</a></td>
+    <td class="tg-0pky"><a href="https://alacritty.org/">alacritty</a></td>
     <td class="tg-0pky">Alacritty - A fast, cross-platform, OpenGL terminal emulator</td>
   </tr>
   <tr>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
+    <td class="tg-0pky">Browser</td>
+    <td class="tg-0pky"><a href="https://www.qutebrowser.org/">qutebrowser</a></td>
+    <td class="tg-0pky">qutebrowser is a keyboard-focused browser with a minimal GUI. It’s based on Python and Qt and free software, licensed under the GPL.
+
+It was inspired by other browsers/addons like dwb and Vimperator/Pentadactyl.</td>
   </tr>
     <tr>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
+    <td class="tg-0pky">WindowManager</td>
+    <td class="tg-0pky"><a href="https://i3wm.org/">i3</a></td>
+    <td class="tg-0pky">i3 is a tiling window manager, completely written from scratch.</td>
   </tr>
     <tr>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
+    <td class="tg-0pky">Terminal Multiplexer</td>
+    <td class="tg-0pky"><a href="https://github.com/tmux">tmux</a></td>
+    <td class="tg-0pky">tmux is a terminal multiplexer. It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal.</td>
   </tr>
     <tr>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
+    <td class="tg-0pky">Media Player</td>
+    <td class="tg-0pky"> <a href="https://mpv.io/">mpv</a></td>
+    <td class="tg-0pky">a free, open source, and cross-platform media player</td>
   </tr>
     <tr>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
+    <td class="tg-0pky">Document Reader</td>
+    <td class="tg-0pky"> <a href="https://pwmt.org/projects/zathura/">zathura</a></td>
+    <td class="tg-0pky">zathura is a highly customizable and functional document viewer. It provides a minimalistic and space saving interface as well as an easy usage that mainly focuses on keyboard interaction.</td>
   </tr>
     <tr>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
+    <td class="tg-0pky">Office</td>
+    <td class="tg-0pky"> <a href="https://www.r-project.org/">R + Rmd</a></td>
+    <td class="tg-0pky">R is a free software environment for statistical computing and graphics</td>
   </tr>
     <tr>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
+    <td class="tg-0pky">Spotify</td>
+    <td class="tg-0pky"> <a href="https://github.com/Rigellute/spotify-tui">Spotify-tui</a></td>
+    <td class="tg-0pky">A Spotify client for the terminal written in Rust.
+   <tr>
+    <td class="tg-0pky">Password Manager</td>
+    <td class="tg-0pky"><a href="https://www.passwordstore.org/"></a>pass</td>
+    <td class="tg-0pky">the standard unix password manager</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">File Manager</td>
+    <td class="tg-0pky"><a href="https://github.com/ranger/ranger"></a>Ranger</td>
+    <td class="tg-0pky">ranger is a console file manager with VI key bindings. It provides a minimalistic and nice curses interface with a view on the directory hierarchy.</td>
+  </tr>
+    <tr>
+    <td class="tg-0pky">Text Editor / IDE</td>
+    <td class="tg-0pky"><a href="https://neovim.io/"></a>neovim</td>
+    <td class="tg-0pky">Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient</td>
+  </tr>
+
+</td>
   </tr>
 </tbody>
 </table>
