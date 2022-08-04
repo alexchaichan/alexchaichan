@@ -1,6 +1,8 @@
-I run almost every programm over the commandline. Below I present the programs that I use
+<details close>
 
-<div align="center">
+ <summary>I run almost every programm over the commandline. Below I present the programs that I use
+</summary>
+
 
 <table class="tg">
 <thead>
@@ -96,6 +98,6 @@ It was inspired by other browsers/addons like dwb and Vimperator/Pentadactyl.</t
   </tr>
 </tbody>
 </table>
-</div>
 
-https://draculatheme.com/
+</details>
+
