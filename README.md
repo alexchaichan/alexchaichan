@@ -64,7 +64,7 @@ It was inspired by other browsers/addons like dwb and Vimperator/Pentadactyl.</t
   </tr>
   <tr>
     <td class="tg-0pky">File Manager</td>
-    <td class="tg-0pky"><a href="https://github.com/ranger/ranger">Ranger</a></td>
+    <td class="tg-0pky"><a href="https://github.com/ranger/ranger">ranger</a></td>
     <td class="tg-0pky">ranger is a console file manager with VI key bindings. It provides a minimalistic and nice curses interface with a view on the directory hierarchy.</td>
   </tr>
     <tr>
@@ -87,10 +87,15 @@ It was inspired by other browsers/addons like dwb and Vimperator/Pentadactyl.</t
     <td class="tg-0pky"><a href="https://calcurse.org/">calcurse</a></td>
     <td class="tg-0pky">calcurse is a calendar and scheduling application for the command line. </td>
   </tr>
+  <tr>
+    <td class="tg-0pky">Theme</td>
+    <td class="tg-0pky"><a href="https://draculatheme.com/">dracula</a></td>
+    <td class="tg-0pky">A dark theme</td>
+ </tr>
 </td>
   </tr>
 </tbody>
 </table>
-  
-
 </div>
+
+https://draculatheme.com/
