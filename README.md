@@ -207,7 +207,7 @@ Contributors
 </details>
 
 
-[Actuall Project](https://github.com/alexchaichan/dactyl-manuform)
+[Actual Project](https://github.com/alexchaichan/dactyl-manuform)
 
 
 
