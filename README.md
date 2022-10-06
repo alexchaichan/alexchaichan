@@ -1,3 +1,4 @@
+<!-- 
 ```mermaid
 pie
     title Languages I use
@@ -6,6 +7,8 @@ pie
     "Shell" : 2
     "LaTeX": 2
 ```
+-->
+
 
 <details close>
 
@@ -205,10 +208,6 @@ Contributors
 * [Nick Horton](https://www.amherst.edu/people/facstaff/nhorton) - Minor wording suggestions.
 
 </details>
-
-
-[Actual Project](https://github.com/alexchaichan/dactyl-manuform)
-
 
 
 <details close>
