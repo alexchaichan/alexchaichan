@@ -12,7 +12,7 @@ pie
 
 <details close>
 
- <summary> <a href="https://www.zsh.org/](https://github.com/jtleek/datasharing.git">How to share data with a statistician</a>
+ <summary> <a href="[datasharing](https://github.com/jtleek/datasharing.git)">How to share data with a statistician</a>
 </summary>
 
 
