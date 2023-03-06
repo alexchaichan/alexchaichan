@@ -20,7 +20,7 @@
   <tr>
     <td class="tg-0pky">Browser</td>
     <td class="tg-0pky"><a href="https://www.qutebrowser.org/">qutebrowser</a></td>
-    <td class="tg-0pky">qutebrowser is a keyboard-focused browser with a minimal GUI. It’s based on Python and Qt and free software, licensed under the GPL.
+    <td class="tg-0pky">Qutebrowser is a keyboard-focused browser with a minimal GUI. It’s based on Python and Qt and free software, licensed under the GPL.
 
 It was inspired by other browsers/addons like dwb and Vimperator/Pentadactyl.</td>
   </tr>
@@ -32,17 +32,17 @@ It was inspired by other browsers/addons like dwb and Vimperator/Pentadactyl.</t
     <tr>
     <td class="tg-0pky">Terminal Multiplexer</td>
     <td class="tg-0pky"><a href="https://github.com/tmux">tmux</a></td>
-    <td class="tg-0pky">tmux is a terminal multiplexer. It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal.</td>
+    <td class="tg-0pky">Tmux is a terminal multiplexer. It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal.</td>
   </tr>
     <tr>
     <td class="tg-0pky">Media Player</td>
     <td class="tg-0pky"> <a href="https://mpv.io/">mpv</a></td>
-    <td class="tg-0pky">a free, open source, and cross-platform media player</td>
+    <td class="tg-0pky">A free, open source, and cross-platform media player</td>
   </tr>
     <tr>
     <td class="tg-0pky">Document Reader</td>
     <td class="tg-0pky"> <a href="https://pwmt.org/projects/zathura/">zathura</a></td>
-    <td class="tg-0pky">zathura is a highly customizable and functional document viewer. It provides a minimalistic and space saving interface as well as an easy usage that mainly focuses on keyboard interaction.</td>
+    <td class="tg-0pky">Zathura is a highly customizable and functional document viewer. It provides a minimalistic and space saving interface as well as an easy usage that mainly focuses on keyboard interaction.</td>
   </tr>
     <tr>
     <td class="tg-0pky">Office</td>
@@ -56,12 +56,12 @@ It was inspired by other browsers/addons like dwb and Vimperator/Pentadactyl.</t
    <tr>
     <td class="tg-0pky">Password Manager</td>
     <td class="tg-0pky"><a href="https://www.passwordstore.org/">pass</a></td>
-    <td class="tg-0pky">the standard unix password manager</td>
+    <td class="tg-0pky">The standard unix password manager</td>
   </tr>
   <tr>
     <td class="tg-0pky">File Manager</td>
     <td class="tg-0pky"><a href="https://github.com/ranger/ranger">ranger</a></td>
-    <td class="tg-0pky">ranger is a console file manager with VI key bindings. It provides a minimalistic and nice curses interface with a view on the directory hierarchy.</td>
+    <td class="tg-0pky">Ranger is a console file manager with VI key bindings. It provides a minimalistic and nice curses interface with a view on the directory hierarchy.</td>
   </tr>
     <tr>
     <td class="tg-0pky">Text Editor / IDE</td>
@@ -81,7 +81,7 @@ It was inspired by other browsers/addons like dwb and Vimperator/Pentadactyl.</t
   <tr>
     <td class="tg-0pky">Calendar Client</td>
     <td class="tg-0pky"><a href="https://calcurse.org/">calcurse</a></td>
-    <td class="tg-0pky">calcurse is a calendar and scheduling application for the command line. </td>
+    <td class="tg-0pky">Calcurse is a calendar and scheduling application for the command line. </td>
   </tr>
   <tr>
     <td class="tg-0pky">Theme</td>
