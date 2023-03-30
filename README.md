@@ -95,6 +95,8 @@ It was inspired by other browsers/addons like dwb and Vimperator/Pentadactyl.</t
 
 
 <details close>
+  
+ ![terminal](terminal.png)
 
  <summary> <a href="https://github.com/jtleek/datasharing">How to share data with a statistician</a>
 </summary>
