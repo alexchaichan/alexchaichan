@@ -46,12 +46,12 @@ It was inspired by other browsers/addons like dwb and Vimperator/Pentadactyl.</t
   </tr>
     <tr>
     <td class="tg-0pky">Office</td>
-    <td class="tg-0pky"> <a href="https://www.r-project.org/">R + Rmd</a></td>
+    <td class="tg-0pky"> <a href="https://www.r-project.org/">r + rmd</a></td>
     <td class="tg-0pky">R is a free software environment for statistical computing and graphics</td>
   </tr>
     <tr>
     <td class="tg-0pky">Spotify</td>
-    <td class="tg-0pky"> <a href="https://github.com/Rigellute/spotify-tui">Spotify-tui</a></td>
+    <td class="tg-0pky"> <a href="https://github.com/Rigellute/spotify-tui">spotify-tui</a></td>
     <td class="tg-0pky">A Spotify client for the terminal written in Rust.
    <tr>
     <td class="tg-0pky">Password Manager</td>
